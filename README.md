@@ -53,3 +53,5 @@ Please include a short `README.md` file in your submission with the following:
 - Instructions to run the project (if needed)
 
 ✅ We encourage the use of AI tools to help you complete this assignment part of what we're evaluating is how you integrate modern development practices.
+
+✅ If you are not a C# developer, we want you to re-write this into the language of your choice then follow the above.
