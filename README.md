@@ -35,7 +35,7 @@ Refactor the provided code into something that’s understandable, testable, and
    - Your version must still:
      - Read a physician note from a file
      - Extract structured data (device type, provider, etc.)
-     - POST the data to `https://alert-api.com/DrExtract`
+     - POST the data to `https://alert-api.com/DrExtract` (Not a real link)
 
 6. **(Optional stretch goals)**
    - Replace the manual extraction logic with an LLM (e.g., OpenAI or Azure OpenAI)
